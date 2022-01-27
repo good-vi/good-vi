@@ -5,6 +5,7 @@
 
 ## Skills
 - **Java**: Spring Framework, Java 8/11, Kotlin
+- **CPP**: Qt, Can read spaghetti OpenJdk ;)
 - **Tools**: Maven, Git, IDEA, Jooq, Liquibase, Graphana, Docker, Docker-compose.
 - **DevOps**: Linux, Ansible, Jenkins, Bamboo.
 - **Databases** (not strong): SQL (Postgres, Oracle), Hibernate, JDBC.
