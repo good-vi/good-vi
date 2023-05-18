@@ -1,8 +1,6 @@
 # Kovalev Viktor
 ## Java (Kotlin) Developer.
 
-- Location: Russia, Saint Petersburg.
-
 ## Skills
 - **Java**: Spring Framework, Java 8/11, Kotlin,
 - **CPP**: Qt, Can read spaghetti OpenJdk ;)
