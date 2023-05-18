@@ -6,6 +6,6 @@
 - **CPP**: Qt, Can read spaghetti OpenJdk ;)
 - **Tools**: Maven, Git, IDEA, Jooq, Liquibase, Graphana, Docker, Docker-compose.
 - **DevOps**: Linux, Ansible, Jenkins, Bamboo.
-- **Databases** (not strong): SQL (Postgres, Oracle), Hibernate, JDBC.
+- **Databases**: Postgres, Oracle (not strong), Hibernate, JDBC.
 - **Data**: Kafka, protobuf+gRpc
 - **CLI**: PicoCli
